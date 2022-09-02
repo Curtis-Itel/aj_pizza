@@ -1,1 +1,16 @@
-{}
+{
+  "getDevices": {
+    "modems": [
+      {"device_id": 1234, "name":"modem 1234"}, 
+      {"device_id": 5678, "name":"modem 5678"}, 
+      null],
+    "router_1": {"device_id": 1467, "name":"router 1467"},
+    "router_2": {"device_id": 2648, "name":"router 2648"},
+    "access_points": [
+      {"device_id": 11, "name":"ap 11"},
+      {"device_id": 12, "name":"ap 12"}, 
+      {"device_id": 13, "name":"ap 13"},
+      null, 
+      null]
+  }
+}
