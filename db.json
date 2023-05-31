@@ -1,24 +1,16 @@
 {
-  "ingredients" : { 
-    "Pizza Dough": 2.50,
-  "Tomato Sauce": 1.75,
-  "Mozzarella Cheese": 3.25,
-  "Pepperoni": 2.00,
-  "Mushrooms": 1.50,
-  "Green Bell Peppers": 1.25,
-  "Black Olives": 1.75,
-  "Sliced Onions": 1.00,
-  "Fresh Basil": 1.50,
-  "Italian Sausage": 2.75,
-  "Bacon": 2.50,
-  "Pineapple": 1.25,
-  "Spinach": 1.50,
-  "Sun-Dried Tomatoes": 2.00,
-  "Feta Cheese": 3.00,
-  "Anchovies": 2.50,
-  "BBQ Sauce": 1.75,
-  "Jalapenos": 1.25,
-  "Cheddar Cheese": 2.50,
-  "Garlic": 1.00
-}
+  "getDevices": {
+    "modems": [
+      {"device_id": 1234, "name":"modem 1234"}, 
+      {"device_id": 5678, "name":"modem 5678"}, 
+      null],
+    "router_1": {"device_id": 1467, "name":"router 1467"},
+    "router_2": {"device_id": 2648, "name":"router 2648"},
+    "access_points": [
+      {"device_id": 11, "name":"ap 11"},
+      {"device_id": 12, "name":"ap 12"}, 
+      {"device_id": 13, "name":"ap 13"},
+      null, 
+      null]
+  }
 }
