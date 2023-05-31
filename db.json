@@ -1,5 +1,6 @@
 {
-  "Pizza Dough": 2.50,
+  "ingredients" : { 
+    "Pizza Dough": 2.50,
   "Tomato Sauce": 1.75,
   "Mozzarella Cheese": 3.25,
   "Pepperoni": 2.00,
@@ -19,4 +20,5 @@
   "Jalapenos": 1.25,
   "Cheddar Cheese": 2.50,
   "Garlic": 1.00
+}
 }
